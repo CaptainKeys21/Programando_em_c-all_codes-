@@ -1,4 +1,4 @@
-# Programando_em_c-all_codes-
+# book-Programando_em_Cpp
 
 Português:
 Este repositório é uma coletânea de exemplos de códigos do livro "Programando em C++" de Joel Saade. Sinta-se livre para baixar e estudar esses códigos.
